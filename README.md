@@ -32,7 +32,7 @@ To compile and run the game on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/lucadileo9/Naval-Battle.git
+   git clone https://github.com/lucadileo9/naval-battle.git
    cd battaglia_navale
    ```
 
