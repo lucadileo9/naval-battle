@@ -1,4 +1,9 @@
 # Naval Battle Game
+[![C++](https://img.shields.io/badge/C++-17-00599C.svg?logo=cplusplus&logoColor=white)](https://isocpp.org/)
+
+[![GitHub license](https://img.shields.io/github/license/lucadileo9/culinary-explorer)](https://github.com/lucadileo9/culinary-explorer/blob/main/LICENSE)
+
+[![Learning Project](https://img.shields.io/badge/Type-Learning%20Project-blueviolet.svg)](https://github.com/lucadileo9)
 
 This is a command-line implementation of a Naval Battle game, developed as a project after completing the first year of my Computer Science degree. The purpose of this project was to apply the knowledge gained from Programming I and Programming II courses.
 
